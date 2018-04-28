@@ -1,0 +1,27 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #F2EFE9;
+}
+.main_div {
+  text-align: center;
+}
+
+.input-group {
+  padding: 20px;
+
+}
+
+.list-group-custom {
+  background-color: grey;
+  margin: 20px;
+}
+
+a {
+  margin: 10px;
+}
+
+.btn {
+  background-color: #26413C;
+  border: 2px solid grey;
+  color: white;
+}
